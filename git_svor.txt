@@ -40,3 +40,12 @@ git checkout - yfirfer skrár í working tree til að passa við index útgáfun
 
 	oft. Git tekur bara fulla ábyrgð fyrir gögnin þín þegar þú gerir commit. Ef þér mistekst að gera commit
 	og gerir svo einhver mistök gætiru verið í vondum málum. Ef þú commitar oft geturu skilið ef þú skemmir eitthvað.
+
+
+7. spurning
+	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+
+	working directory: er ein athugun af einni útgáfu af verkefni. Þessar Skrár eru dregnar úr gagnasafni úr Repository
+
+	Staging Area: Er skrá staðsett í þínu Git Directory(repository) sem er með upplýsingar um hvað fer í þitt næsta commit.
+	Stundum kallað "index"
