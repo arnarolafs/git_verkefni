@@ -17,3 +17,9 @@ git log - Þessi skipun gefur þér valkosti til að ráða hvað er sýnt og hv
 git status - sýnir þér slóðir sem eru ólíkar í index file og HEAD. Líka í working tree og index file
 git diff - sýnir breytingar á commits, commit og working tree, o.fl.
 git checkout - yfirfer skrár í working tree til að passa við index útgáfuna.
+
+3. spurning
+ 	Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff - hér sérðu breytingar á öllum commit/s
+	b) git diff --staged - hér sérðu skrár sem hafa verið staged
+	c) git diff commit1 commit2 - hérna sérðu muninn á commit1 og commit2
