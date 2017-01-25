@@ -29,3 +29,8 @@ git checkout - yfirfer skrár í working tree til að passa við index útgáfun
 	
 	útgáfustýring er kerfi sem hjálpar software félögum að vinna saman með kóða og hjálpar þér að hafa allt á sínum stað og færa til.
 	Og sjá breytingar sem orðið hafa verið, sjá hver lagfærði eitthvað seinast sem gæti hafa verið vandamál.
+	
+5. spurning
+	Hverjir eru helstu kostir við að nota GIT?
+	
+	Það að þú getur unni með nokkrum manneskjum í einu án þess að vera öll á sama staðnum.
