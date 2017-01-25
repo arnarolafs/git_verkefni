@@ -60,3 +60,8 @@ git checkout - yfirfer skrár í working tree til að passa við index útgáfun
 	Hver fann upp GIT?
 
 	Linus Torvalds. Sami og hannaði Linux
+
+10. spurning
+	Hvar er GIT helst notað?
+
+	Hjá fyrirtækjum sem sjá um kerfi, hugbúnaði. Vefsíðu hönnuði og fleira
