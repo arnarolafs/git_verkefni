@@ -49,3 +49,9 @@ git checkout - yfirfer skrár í working tree til að passa við index útgáfun
 
 	Staging Area: Er skrá staðsett í þínu Git Directory(repository) sem er með upplýsingar um hvað fer í þitt næsta commit.
 	Stundum kallað "index"
+
+8. spurning
+	Hvenær er sniðugt að nota greinar (branches)? 
+	
+	Það er hægt að hugsa sér branches sem leið til að biðja um nýtt working directory, staging area og project history.
+	Þú notar git branch skipunina til að búa til, merkja og eyða greinum.
