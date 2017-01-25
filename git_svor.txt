@@ -23,3 +23,9 @@ git checkout - yfirfer skrár í working tree til að passa við index útgáfun
 	a) git diff - hér sérðu breytingar á öllum commit/s
 	b) git diff --staged - hér sérðu skrár sem hafa verið staged
 	c) git diff commit1 commit2 - hérna sérðu muninn á commit1 og commit2
+
+4. spurning
+ 	Hvað er útgáfustýring (e.version control)? 
+	
+	útgáfustýring er kerfi sem hjálpar software félögum að vinna saman með kóða og hjálpar þér að hafa allt á sínum stað og færa til.
+	Og sjá breytingar sem orðið hafa verið, sjá hver lagfærði eitthvað seinast sem gæti hafa verið vandamál.
