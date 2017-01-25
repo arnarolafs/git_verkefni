@@ -1,1 +1,10 @@
 #Git spurningar og svör
+
+1. spurning
+	Hvað gera eftirfarandi Linux skipanir?
+
+	cd - þú notar cd til að fara í ákveðið directory
+	cd ~ - ferð til baka um 1
+	ls - sýnir hvað er í hverjum folder
+	pwd - sýnir þér á hvaða drifi þú ert 
+	mkdi - býr til nýja möppu(directory) 
