@@ -8,3 +8,12 @@
 	ls - sýnir hvað er í hverjum folder
 	pwd - sýnir þér á hvaða drifi þú ert 
 	mkdi - býr til nýja möppu(directory) 
+
+2. spurning
+	Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+
+git clone - klónar staðsetningu hjá möppu sem er ný búið að búa til
+git log - Þessi skipun gefur þér valkosti til að ráða hvað er sýnt og hvernig
+git status - sýnir þér slóðir sem eru ólíkar í index file og HEAD. Líka í working tree og index file
+git diff - sýnir breytingar á commits, commit og working tree, o.fl.
+git checkout - yfirfer skrár í working tree til að passa við index útgáfuna.
